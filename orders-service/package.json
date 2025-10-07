@@ -1,0 +1,9 @@
+{
+  "id": "o1",
+  "userId": "u1",
+  "items": [{ "product": "p1", "qty": 2 }],
+  "total": 200,
+  "status": "CREATED",
+  "createdAt": "2025-10-07T14:00:00Z",
+  "supertest": "6.3.3"
+}
